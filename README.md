@@ -1,0 +1,1 @@
+This is where I keep all my school projects using C programming language. I took three classes Computer Science 1, Introduction To Engineer, and Embedded Systems.
